@@ -42,5 +42,5 @@ Depois, entra em um loop onde o PWM varia suavemente entre os valores mínimo e 
 5. Utilize a **BitDogLab** para testar a iluminação do LED RGB.
 
 ---
-✏️ Desenvolvido para experimentação com PWM no Raspberry Pi Pico W com integração ao Wokwi e BitDogLab no contexto da capacitação em sistemas embarcados fornecida pelo CEPEDI.
+Desenvolvido para experimentação com PWM no Raspberry Pi Pico W com integração ao Wokwi e BitDogLab no contexto da capacitação em sistemas embarcados fornecida pelo CEPEDI.
 
